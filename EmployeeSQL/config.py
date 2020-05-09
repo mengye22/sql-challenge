@@ -1,1 +1,1 @@
-pw = "ENTER YOUR PASSWORD HERE"
+pw = "postgres"
